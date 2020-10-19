@@ -1,0 +1,77 @@
+body {
+  margin: 0px;
+}
+
+div {
+  margin: 0;
+}
+
+img {
+  margin: 0;
+}
+
+.top-container {
+  text-align: center;
+  background-color: #3d7ea6;
+  margin-bottom: 20px;
+  padding-top: 100px;
+  position: relative;
+  margin: 0;
+}
+
+hr {
+  border-color: #3d7ea6;
+  border-style: dotted none none;
+  border-width: 6px;
+  width: 75%;
+}
+
+.middle-container {
+  background-color: #d2d3c9;
+
+}
+
+.bottom-container {
+  background-color: #d2d3c9:
+}
+.sale {
+    position: relative;
+    left: 600px;
+
+}
+
+h1 {
+  margin: 0px;
+  width: 20%;
+  margin: 0 auto;
+  font-size: 70px;
+  font-family: 'Sacramento', cursive;
+}
+
+p {
+  margin: 0px;
+  width: 35%;
+  margin: 0 auto;
+  font-family: 'Sansita Swashed', cursive;
+}
+
+.top-cloud {
+  position: absolute;
+  left: 450px;
+  top: 150px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  right: 450px;
+  top: 50px;
+}
+
+.me {
+  position: relative;
+  bottom: 200px;
+  font-size: 20px;
+}
+.font {
+  font-size: 20px;
+}
